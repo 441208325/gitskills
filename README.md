@@ -1,4 +1,5 @@
 # gitskills
+<<<<<<< HEAD
 Creating a new branch is quick and and and  simple.dev dev dev dev
 dev 
 dev 
@@ -20,3 +21,9 @@ ad
 f
 fffffffffffffffffffffffffffffffffffff
 dddddddddddddddddddddddddddd
+
+2
+2
+2
+3555555555555555
+add /usr/bin/ls
